@@ -27,7 +27,7 @@ You can check your diabetes or can take health survey using the bot.
 Tumin is smooth, sharp looking, and multi-fuctioning modern day website built to operate with ease. Tumin can work on multiple devices as well i.e. you can operate it with any device you have and that even without any bug and glitch.
 Followinng technologies are used to built Tumin: 
 
-- **Mongo Db :** Mongo DB is Database used to maintain user information and data realted to them. At Tumin, we used Mongo DB to store medical data and user information.
+- **Mongo DB :** Mongo DB is Database used to maintain user information and data realted to them. At Tumin, we used Mongo DB to store medical data and user information.
 
 - **Express Js :** Express is a minimal and flexible Node.js web application framework that provides a robust set of features for web and mobile applications. This modern day framework is used to provide seamlessness to the webapp.
 
@@ -141,6 +141,28 @@ Azure Blob Storage is a cloud-based object storage service provided by Microsoft
 
 ### Index page 
 ![image](https://dataforpublic.blob.core.windows.net/images/Screenshot%20(160).png)
+
+<br>
+
+## Snapshots of Azure Services (used in Tumin):
+
+### All Resource Groups
+![image](https://dataforpublic.blob.core.windows.net/azureimages/Screenshot%20(164).png)
+
+### Resource Group Created For Hosting Tumin
+![image](https://dataforpublic.blob.core.windows.net/azureimages/Screenshot%20(165).png)
+
+### Resource Group Created For Health Bot & Other Data
+![image](https://dataforpublic.blob.core.windows.net/azureimages/Screenshot%20(166).png)
+
+### Blob Storage
+![image](https://dataforpublic.blob.core.windows.net/azureimages/Screenshot%20(167).png)
+
+### Health Bot Management Portal
+![image](https://dataforpublic.blob.core.windows.net/azureimages/Screenshot%20(168).png)
+
+### Avinashak Bot Steps
+![image](https://dataforpublic.blob.core.windows.net/azureimages/Screenshot%20(169).png)
 
 <br>
 
