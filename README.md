@@ -173,11 +173,3 @@ I (Avinash Agrawal) would like to express my sincere gratitude to Future Ready T
 <br>
 
 # Thanks💖
-<!--https://ibb.co/hHFtYZF
-https://ibb.co/TRV14Vb
-https://ibb.co/Vmy5XWz
-https://ibb.co/FVBpT1x
-https://ibb.co/2k8v8tp
-https://ibb.co/xgRKpbX
-https://ibb.co/x6F81Dd
-https://ibb.co/XCxQpmy->
