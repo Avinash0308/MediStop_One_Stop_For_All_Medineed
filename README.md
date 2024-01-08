@@ -2,9 +2,9 @@
 Tumin is a healthcare web app developed as a part of **Future Ready Talent Internship**. 
 Tumin can be used as a med-tech tool that can ease your life with its various and crazy functionalities.
 
-**Project Link:** 
+**Project Link:** https://tumin-the-two-minute-app.onrender.com/login
 
-**Project Demo Link:** 
+**Project Demo Link:** https://youtu.be/HlPHTi-A4UM
 
 <br>
 
