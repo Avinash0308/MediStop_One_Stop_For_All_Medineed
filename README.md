@@ -103,66 +103,66 @@ Azure Blob Storage is a cloud-based object storage service provided by Microsoft
 ## Snapshots of Tumin - The Two Minute App:
 
 ### Home Page
-![image](https://dataforpublic.blob.core.windows.net/images/Screenshot%202024-01-07%20015321.png)
+![image](https://i.ibb.co/7GzSxXG/Screenshot-2024-01-07-015321.png)
 
-### Statics Page
-![image](https://dataforpublic.blob.core.windows.net/images/Screenshot%202024-01-07%20015440.png)
+### Statictics Page
+![image](https://i.ibb.co/RzMjr26/Screenshot-2024-01-07-015440.png)
 
 ### Our Services
-![image](https://dataforpublic.blob.core.windows.net/images/Screenshot%202024-01-07%20015515.png)
+![image](https://i.ibb.co/TLbc6F9/Screenshot-2024-01-07-015515.png)
 
 ### Connected Hospitals
-![image](https://dataforpublic.blob.core.windows.net/images/Screenshot%202024-01-07%20015606.png)
+![image](https://i.ibb.co/RNXTXXK/Screenshot-2024-01-07-015606.png)
 
 ### Schemes Page
-![image](https://dataforpublic.blob.core.windows.net/images/Screenshot%20(156).png)
+![image](https://i.ibb.co/YjWcXMv/Screenshot-156.png)
 
 <br>
 
-![image](https://dataforpublic.blob.core.windows.net/images/Screenshot%20(157).png)
+![image](https://i.ibb.co/rF1d1qg/Screenshot-157.png)
 
 ### Appointment Page
-![image](https://dataforpublic.blob.core.windows.net/images/Screenshot%202024-01-07%20015825.png)
+![image](https://i.ibb.co/LSnv1Kt/Screenshot-2024-01-07-015825.png)
 
 ### Personal Data
-![image](https://dataforpublic.blob.core.windows.net/images/Screenshot%202024-01-07%20015720.png)
+![image](https://i.ibb.co/sbBMvcx/Screenshot-2024-01-07-015720.png)
 
 ### Testimonial Page
-![image](https://dataforpublic.blob.core.windows.net/images/Screenshot%202024-01-07%20015644.png)
+![image](https://i.ibb.co/xqsJgCk/Screenshot-2024-01-07-015644.png)
 
 ### Avinashak - Chat Bot
-![image](https://dataforpublic.blob.core.windows.net/images/Screenshot%20(161).png)
+![image](https://i.ibb.co/KxtYgT7/Screenshot-161.png)
 
 ### Registration Form
-![image](https://dataforpublic.blob.core.windows.net/images/Screenshot%202024-01-07%20015916.png)
+![image](https://i.ibb.co/fd3t0qf/Screenshot-2024-01-07-015916.png)
 
 ### Footer 
-![image](https://dataforpublic.blob.core.windows.net/images/Screenshot%202024-01-07%20015745.png)
+![image](https://i.ibb.co/Bs6wRww/Screenshot-2024-01-07-015745.png)
 
 ### Index page 
-![image](https://dataforpublic.blob.core.windows.net/images/Screenshot%20(160).png)
+![image](https://i.ibb.co/Q6Q8MhW/Screenshot-160.png)
 
 <br>
 
 ## Snapshots of Azure Services (used in Tumin):
 
 ### All Resource Groups
-![image](https://dataforpublic.blob.core.windows.net/azureimages/Screenshot%20(164).png)
+![image](https://i.ibb.co/TwJjpNr/Screenshot-164.png)
 
 ### Resource Group Created For Hosting Tumin
-![image](https://dataforpublic.blob.core.windows.net/azureimages/Screenshot%20(165).png)
+![image](https://i.ibb.co/zSXBdN4/Screenshot-165.png)
 
 ### Resource Group Created For Health Bot & Other Data
-![image](https://dataforpublic.blob.core.windows.net/azureimages/Screenshot%20(166).png)
+![image](https://i.ibb.co/HCHZzct/Screenshot-166.png)
 
 ### Blob Storage
-![image](https://dataforpublic.blob.core.windows.net/azureimages/Screenshot%20(167).png)
+![image](https://i.ibb.co/GvXs3cL/Screenshot-167.png)
 
 ### Health Bot Management Portal
-![image](https://dataforpublic.blob.core.windows.net/azureimages/Screenshot%20(168).png)
+![image](https://i.ibb.co/kJSdKsW/Screenshot-168.png)
 
 ### Avinashak Bot Steps
-![image](https://dataforpublic.blob.core.windows.net/azureimages/Screenshot%20(169).png)
+![image](https://i.ibb.co/G3qB3tv/Screenshot-169.png)
 
 <br>
 
