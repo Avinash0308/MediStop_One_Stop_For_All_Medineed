@@ -1,6 +1,6 @@
-# Tumin - The Two Minute App
-Tumin is a healthcare web app developed as a part of **Future Ready Talent Internship**. 
-Tumin can be used as a med-tech tool that can ease your life with its various and crazy functionalities.
+# MediStop - One Stop For All MediNeeds
+MediStop is a healthcare web app.
+MediStop can be used as a med-tech tool that can ease your life with its various and crazy functionalities.
 
 **Project Link:** https://tumin-the-two-minute-app.onrender.com/login
 
@@ -10,30 +10,30 @@ Tumin can be used as a med-tech tool that can ease your life with its various an
 
 ## Key Features
 
-- **Avinashak - The Healthcare Bot :** Tumin is packed with modern era chatbot developed using Azure Health Bot that can process your needs, navigate you through are website and most importantly can give you health related suggestions.
+- **Avinashak - The Healthcare Bot :** MediStop is packed with modern era chatbot developed using Azure Health Bot that can process your needs, navigate you through are website and most importantly can give you health related suggestions.
 You can check your diabetes or can take health survey using the bot.
 
-- **Medical Resources :** Tumin provides you with data about Healthcare centers, Hospitals and Doctors in your locality so you need to ask others at crucial time. Thus helps you finding right just in minutes.
+- **Medical Resources :** MediStop provides you with data about Healthcare centers, Hospitals and Doctors in your locality so you need to ask others at crucial time. Thus helps you finding right just in minutes.
 
-- **Appointment System :** Tumin comes with Appointment System using which users can book the appointments with doctors and that even with their own preferred day and time slot. Gone the time when we need to sit in long queues for our number to come, now you have Tumin to do it all.
+- **Appointment System :** MediStop comes with Appointment System using which users can book the appointments with doctors and that even with their own preferred day and time slot. Gone the time when we need to sit in long queues for our number to come, now you have MediStop to do it all.
 
-- **Schemes :** Tumin lists all the schemes, programs, NGO’s motives, and many more at one place to help economically weaker peopls to get the treatment for free or in as low cost as possible. This will help many to get the most optimum medical requirements and that even in lowest possible prices.
+- **Schemes :** MediStop lists all the schemes, programs, NGO’s motives, and many more at one place to help economically weaker peopls to get the treatment for free or in as low cost as possible. This will help many to get the most optimum medical requirements and that even in lowest possible prices.
 
 - **Personal Data :** Patients can store all there past history like medical certificates, report, medicinal information and many more in our website without any worry of losing anything. It will help you to find the documents whenever required without taking headache of missing them.
 
 <br>
 
 ## Tech Stack
-Tumin is smooth, sharp looking, and multi-fuctioning modern day website built to operate with ease. Tumin can work on multiple devices as well i.e. you can operate it with any device you have and that even without any bug and glitch.
-Followinng technologies are used to built Tumin: 
+MediStop is smooth, sharp looking, and multi-fuctioning modern day website built to operate with ease. MediStop can work on multiple devices as well i.e. you can operate it with any device you have and that even without any bug and glitch.
+Followinng technologies are used to built MediStop: 
 
-- **Mongo DB :** Mongo DB is Database used to maintain user information and data realted to them. At Tumin, we used Mongo DB to store medical data and user information.
+- **Mongo Db :** Mongo DB is Database used to maintain user information and data realted to them. At MediStop, we used Mongo DB to store medical data and user information.
 
 - **Express Js :** Express is a minimal and flexible Node.js web application framework that provides a robust set of features for web and mobile applications. This modern day framework is used to provide seamlessness to the webapp.
 
-- **Node Js :** Node.js® is a JavaScript runtime built on Chrome's V8 JavaScript engine. We used it to create our server-side web application Tumin. It is used to provide the backend to the webapp.
+- **Node Js :** Node.js® is a JavaScript runtime built on Chrome's V8 JavaScript engine. We used it to create our server-side web application MediStop. It is used to provide the backend to the webapp.
 
-- **Bootstrap :** Bootstrap is a free, open-source framework for creating websites and web applications. It's a collection of reusable code written in HTML, CSS, and JavaScript. Tumin uses Bootstrap to make website responsive and device friendly.
+- **Bootstrap :** Bootstrap is a free, open-source framework for creating websites and web applications. It's a collection of reusable code written in HTML, CSS, and JavaScript. MediStop uses Bootstrap to make website responsive and device friendly.
 
 - **HTML :** HTML stands for Hypertext Markup Language. It's a markup language that's used to create web pages. HTML is the basic scripting language that web browsers use to render pages on the internet. 
 
@@ -57,9 +57,9 @@ Followinng technologies are used to built Tumin:
 
 ![Azure Health Bot Service](https://learn.microsoft.com/training/achievements/azure-health-bot-social.png)
 
-Azure Health Bot is graphical interface to build chatbots that even without writing a single line of code. Following are the key features of Tumin Healthbot - Avinashak.
+Azure Health Bot is graphical interface to build chatbots that even without writing a single line of code. Following are the key features of MediStop Healthbot - Avinashak.
 
-- Avinashak a part of Tumin is totally built using Azure Health Bot Service.
+- Avinashak a part of MediStop is totally built using Azure Health Bot Service.
 
 - Avinashak comes with three functionalities:
     - **Body Mass Index (BMI) Calculator:** As it's name tells, this one is used to calculate you BMI and output the results.
@@ -100,75 +100,47 @@ Azure Blob Storage is a cloud-based object storage service provided by Microsoft
 
 <br>
 
-## Snapshots of Tumin - The Two Minute App:
+## Snapshots of MediStop:
 
 ### Home Page
-![image](https://i.ibb.co/7GzSxXG/Screenshot-2024-01-07-015321.png)
+![image](https://dataforpublic.blob.core.windows.net/images/Screenshot%202024-01-07%20015321.png)
 
-### Statictics Page
-![image](https://i.ibb.co/RzMjr26/Screenshot-2024-01-07-015440.png)
+### Statics Page
+![image](https://dataforpublic.blob.core.windows.net/images/Screenshot%202024-01-07%20015440.png)
 
 ### Our Services
-![image](https://i.ibb.co/TLbc6F9/Screenshot-2024-01-07-015515.png)
+![image](https://dataforpublic.blob.core.windows.net/images/Screenshot%202024-01-07%20015515.png)
 
 ### Connected Hospitals
-![image](https://i.ibb.co/RNXTXXK/Screenshot-2024-01-07-015606.png)
+![image](https://dataforpublic.blob.core.windows.net/images/Screenshot%202024-01-07%20015606.png)
 
 ### Schemes Page
-![image](https://i.ibb.co/YjWcXMv/Screenshot-156.png)
+![image](https://dataforpublic.blob.core.windows.net/images/Screenshot%20(156).png)
 
 <br>
 
-![image](https://i.ibb.co/rF1d1qg/Screenshot-157.png)
+![image](https://dataforpublic.blob.core.windows.net/images/Screenshot%20(157).png)
 
 ### Appointment Page
-![image](https://i.ibb.co/LSnv1Kt/Screenshot-2024-01-07-015825.png)
+![image](https://dataforpublic.blob.core.windows.net/images/Screenshot%202024-01-07%20015825.png)
 
 ### Personal Data
-![image](https://i.ibb.co/sbBMvcx/Screenshot-2024-01-07-015720.png)
+![image](https://dataforpublic.blob.core.windows.net/images/Screenshot%202024-01-07%20015720.png)
 
 ### Testimonial Page
-![image](https://i.ibb.co/xqsJgCk/Screenshot-2024-01-07-015644.png)
+![image](https://dataforpublic.blob.core.windows.net/images/Screenshot%202024-01-07%20015644.png)
 
 ### Avinashak - Chat Bot
-![image](https://i.ibb.co/KxtYgT7/Screenshot-161.png)
+![image](https://dataforpublic.blob.core.windows.net/images/Screenshot%20(161).png)
 
 ### Registration Form
-![image](https://i.ibb.co/fd3t0qf/Screenshot-2024-01-07-015916.png)
+![image](https://dataforpublic.blob.core.windows.net/images/Screenshot%202024-01-07%20015916.png)
 
 ### Footer 
-![image](https://i.ibb.co/Bs6wRww/Screenshot-2024-01-07-015745.png)
+![image](https://dataforpublic.blob.core.windows.net/images/Screenshot%202024-01-07%20015745.png)
 
 ### Index page 
-![image](https://i.ibb.co/Q6Q8MhW/Screenshot-160.png)
-
-<br>
-
-## Snapshots of Azure Services (used in Tumin):
-
-### All Resource Groups
-![image](https://i.ibb.co/TwJjpNr/Screenshot-164.png)
-
-### Resource Group Created For Hosting Tumin
-![image](https://i.ibb.co/zSXBdN4/Screenshot-165.png)
-
-### Resource Group Created For Health Bot & Other Data
-![image](https://i.ibb.co/HCHZzct/Screenshot-166.png)
-
-### Blob Storage
-![image](https://i.ibb.co/GvXs3cL/Screenshot-167.png)
-
-### Health Bot Management Portal
-![image](https://i.ibb.co/kJSdKsW/Screenshot-168.png)
-
-### Avinashak Bot Steps
-![image](https://i.ibb.co/G3qB3tv/Screenshot-169.png)
-
-<br>
-
-## Acknowledgement
-
-I (Avinash Agrawal) would like to express my sincere gratitude to Future Ready Talent, GitHub, and Microsoft Azure Team for providing me with the golden opportunity to work on this project that healped me gain immense knowledge about Azure Services. It also helped me learning some new work fronts. I'll always be grateful to FRT Team for their help and support.
+![image](https://dataforpublic.blob.core.windows.net/images/Screenshot%20(160).png)
 
 <br>
 
