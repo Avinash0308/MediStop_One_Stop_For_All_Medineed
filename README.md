@@ -1,4 +1,5 @@
 # MediStop - One Stop For All MediNeeds
+
 MediStop is a healthcare web app.
 MediStop can be used as a med-tech tool that can ease your life with its various and crazy functionalities.
 
@@ -11,7 +12,7 @@ MediStop can be used as a med-tech tool that can ease your life with its various
 ## Key Features
 
 - **Avinashak - The Healthcare Bot :** MediStop is packed with modern era chatbot developed using Azure Health Bot that can process your needs, navigate you through are website and most importantly can give you health related suggestions.
-You can check your diabetes or can take health survey using the bot.
+  You can check your diabetes or can take health survey using the bot.
 
 - **Medical Resources :** MediStop provides you with data about Healthcare centers, Hospitals and Doctors in your locality so you need to ask others at crucial time. Thus helps you finding right just in minutes.
 
@@ -24,8 +25,9 @@ You can check your diabetes or can take health survey using the bot.
 <br>
 
 ## Tech Stack
+
 MediStop is smooth, sharp looking, and multi-fuctioning modern day website built to operate with ease. MediStop can work on multiple devices as well i.e. you can operate it with any device you have and that even without any bug and glitch.
-Followinng technologies are used to built MediStop: 
+Followinng technologies are used to built MediStop:
 
 - **Mongo Db :** Mongo DB is Database used to maintain user information and data realted to them. At MediStop, we used Mongo DB to store medical data and user information.
 
@@ -35,7 +37,7 @@ Followinng technologies are used to built MediStop:
 
 - **Bootstrap :** Bootstrap is a free, open-source framework for creating websites and web applications. It's a collection of reusable code written in HTML, CSS, and JavaScript. MediStop uses Bootstrap to make website responsive and device friendly.
 
-- **HTML :** HTML stands for Hypertext Markup Language. It's a markup language that's used to create web pages. HTML is the basic scripting language that web browsers use to render pages on the internet. 
+- **HTML :** HTML stands for Hypertext Markup Language. It's a markup language that's used to create web pages. HTML is the basic scripting language that web browsers use to render pages on the internet.
 
 - **CSS :** Cascading Style Sheets (CSS) is a coding language that describes how elements in a document should appear on screen, paper, or other media. It's a fundamental technology of the World Wide Web, along with HTML and JavaScript.
 
@@ -44,6 +46,7 @@ Followinng technologies are used to built MediStop:
 <br>
 
 ## Azure Technologies Used
+
 - **Azure Static Web Apps**
 - **Azure Bot Service**
 - **Azure Health Bot Service**
@@ -62,11 +65,12 @@ Azure Health Bot is graphical interface to build chatbots that even without writ
 - Avinashak a part of MediStop is totally built using Azure Health Bot Service.
 
 - Avinashak comes with three functionalities:
-    - **Body Mass Index (BMI) Calculator:** As it's name tells, this one is used to calculate you BMI and output the results.
 
-    - **Diabetes Risk Predicto:** Avinashak comes with inbuilt diabetes risk predictor. It basically tells you about your chance of becoming a diabetes patients in next few upcoming years based on few question it may ask.
+  - **Body Mass Index (BMI) Calculator:** As it's name tells, this one is used to calculate you BMI and output the results.
 
-    - **Health Survey :** You can take your small health survey based on 36 health related questions. It can help you know moore about yourself and take required changes to lead a healthy life.
+  - **Diabetes Risk Predicto:** Avinashak comes with inbuilt diabetes risk predictor. It basically tells you about your chance of becoming a diabetes patients in next few upcoming years based on few question it may ask.
+
+  - **Health Survey :** You can take your small health survey based on 36 health related questions. It can help you know moore about yourself and take required changes to lead a healthy life.
 
 - Avinashak is deployed using Azure Services so that it can be accessed 24 X 7.
 
@@ -100,47 +104,47 @@ Azure Blob Storage is a cloud-based object storage service provided by Microsoft
 
 <br>
 
-## Snapshots of MediStop:
+## Snapshots of Tumin - The Two Minute App:
 
 ### Home Page
-![image](https://dataforpublic.blob.core.windows.net/images/Screenshot%202024-01-07%20015321.png)
+![image](https://i.ibb.co/7GzSxXG/Screenshot-2024-01-07-015321.png)
 
-### Statics Page
-![image](https://dataforpublic.blob.core.windows.net/images/Screenshot%202024-01-07%20015440.png)
+### Statictics Page
+![image](https://i.ibb.co/RzMjr26/Screenshot-2024-01-07-015440.png)
 
 ### Our Services
-![image](https://dataforpublic.blob.core.windows.net/images/Screenshot%202024-01-07%20015515.png)
+![image](https://i.ibb.co/TLbc6F9/Screenshot-2024-01-07-015515.png)
 
 ### Connected Hospitals
-![image](https://dataforpublic.blob.core.windows.net/images/Screenshot%202024-01-07%20015606.png)
+![image](https://i.ibb.co/RNXTXXK/Screenshot-2024-01-07-015606.png)
 
 ### Schemes Page
-![image](https://dataforpublic.blob.core.windows.net/images/Screenshot%20(156).png)
+![image](https://i.ibb.co/YjWcXMv/Screenshot-156.png)
 
 <br>
 
-![image](https://dataforpublic.blob.core.windows.net/images/Screenshot%20(157).png)
+![image](https://i.ibb.co/rF1d1qg/Screenshot-157.png)
 
 ### Appointment Page
-![image](https://dataforpublic.blob.core.windows.net/images/Screenshot%202024-01-07%20015825.png)
+![image](https://i.ibb.co/LSnv1Kt/Screenshot-2024-01-07-015825.png)
 
 ### Personal Data
-![image](https://dataforpublic.blob.core.windows.net/images/Screenshot%202024-01-07%20015720.png)
+![image](https://i.ibb.co/sbBMvcx/Screenshot-2024-01-07-015720.png)
 
 ### Testimonial Page
-![image](https://dataforpublic.blob.core.windows.net/images/Screenshot%202024-01-07%20015644.png)
+![image](https://i.ibb.co/xqsJgCk/Screenshot-2024-01-07-015644.png)
 
 ### Avinashak - Chat Bot
-![image](https://dataforpublic.blob.core.windows.net/images/Screenshot%20(161).png)
+![image](https://i.ibb.co/KxtYgT7/Screenshot-161.png)
 
 ### Registration Form
-![image](https://dataforpublic.blob.core.windows.net/images/Screenshot%202024-01-07%20015916.png)
+![image](https://i.ibb.co/fd3t0qf/Screenshot-2024-01-07-015916.png)
 
 ### Footer 
-![image](https://dataforpublic.blob.core.windows.net/images/Screenshot%202024-01-07%20015745.png)
+![image](https://i.ibb.co/Bs6wRww/Screenshot-2024-01-07-015745.png)
 
 ### Index page 
-![image](https://dataforpublic.blob.core.windows.net/images/Screenshot%20(160).png)
+![image](https://i.ibb.co/Q6Q8MhW/Screenshot-160.png)
 
 <br>
 
