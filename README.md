@@ -131,7 +131,7 @@ Azure Blob Storage is a cloud-based object storage service provided by Microsoft
 ![image](https://github.com/Avinash0308/MediStop_One_Stop_For_All_Medineed/blob/main/ReadMe_Images/Testinomials.png)
 
 ### Avinashak - Chat Bot
-![image](https://github.com/Avinash0308/MediStop_One_Stop_For_All_Medineed/blob/main/ReadMe_Images/chat.png)
+![image](https://github.com/Avinash0308/MediStop_One_Stop_For_All_Medineed/blob/main/ReadMe_Images/Chat.png)
 
 ### Registration Form
 ![image](https://github.com/Avinash0308/MediStop_One_Stop_For_All_Medineed/blob/main/ReadMe_Images/registration.png)
