@@ -107,44 +107,40 @@ Azure Blob Storage is a cloud-based object storage service provided by Microsoft
 ## Snapshots of Tumin - The Two Minute App:
 
 ### Home Page
-![image](https://i.ibb.co/7GzSxXG/Screenshot-2024-01-07-015321.png)
+![image](https://github.com/Avinash0308/MediStop_One_Stop_For_All_Medineed/blob/main/ReadMe_Images/Dash.png)
+
+### About Us
+![image](https://github.com/Avinash0308/MediStop_One_Stop_For_All_Medineed/blob/main/ReadMe_Images/About.png)
 
 ### Statictics Page
-![image](https://i.ibb.co/RzMjr26/Screenshot-2024-01-07-015440.png)
+![image](https://github.com/Avinash0308/MediStop_One_Stop_For_All_Medineed/blob/main/ReadMe_Images/Connection.png)
 
 ### Our Services
-![image](https://i.ibb.co/TLbc6F9/Screenshot-2024-01-07-015515.png)
+![image](https://github.com/Avinash0308/MediStop_One_Stop_For_All_Medineed/blob/main/ReadMe_Images/Serv.png)
 
 ### Connected Hospitals
-![image](https://i.ibb.co/RNXTXXK/Screenshot-2024-01-07-015606.png)
-
-### Schemes Page
-![image](https://i.ibb.co/YjWcXMv/Screenshot-156.png)
-
-<br>
-
-![image](https://i.ibb.co/rF1d1qg/Screenshot-157.png)
+![image](https://github.com/Avinash0308/MediStop_One_Stop_For_All_Medineed/blob/main/ReadMe_Images/Tconn.png)
 
 ### Appointment Page
-![image](https://i.ibb.co/LSnv1Kt/Screenshot-2024-01-07-015825.png)
+![image](https://github.com/Avinash0308/MediStop_One_Stop_For_All_Medineed/blob/main/ReadMe_Images/appointment.png)
 
 ### Personal Data
-![image](https://i.ibb.co/sbBMvcx/Screenshot-2024-01-07-015720.png)
+![image](https://github.com/Avinash0308/MediStop_One_Stop_For_All_Medineed/blob/main/ReadMe_Images/User.png)
 
 ### Testimonial Page
-![image](https://i.ibb.co/xqsJgCk/Screenshot-2024-01-07-015644.png)
+![image](https://github.com/Avinash0308/MediStop_One_Stop_For_All_Medineed/blob/main/ReadMe_Images/Testinomials.png)
 
 ### Avinashak - Chat Bot
-![image](https://i.ibb.co/KxtYgT7/Screenshot-161.png)
+![image](https://github.com/Avinash0308/MediStop_One_Stop_For_All_Medineed/blob/main/ReadMe_Images/chat.png)
 
 ### Registration Form
-![image](https://i.ibb.co/fd3t0qf/Screenshot-2024-01-07-015916.png)
+![image](https://github.com/Avinash0308/MediStop_One_Stop_For_All_Medineed/blob/main/ReadMe_Images/registration.png)
 
 ### Footer 
-![image](https://i.ibb.co/Bs6wRww/Screenshot-2024-01-07-015745.png)
+![image](https://github.com/Avinash0308/MediStop_One_Stop_For_All_Medineed/blob/main/ReadMe_Images/Footer.png)
 
 ### Index page 
-![image](https://i.ibb.co/Q6Q8MhW/Screenshot-160.png)
+![image](https://github.com/Avinash0308/MediStop_One_Stop_For_All_Medineed/blob/main/ReadMe_Images/Home.png)
 
 <br>
 
